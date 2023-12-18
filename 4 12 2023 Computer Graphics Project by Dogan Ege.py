@@ -1,6 +1,6 @@
 # Copyright © 2023 Dogan Ege BULTE
 # https://github.com/Dege34
-# doganege.bulte@studenti.polito.it
+# dege.bulte@studenti.polito.it
 def take_indicates(filename):
     try:
         with open(filename, 'r', encoding="utf-8") as input_file:
